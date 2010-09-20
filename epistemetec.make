@@ -29,6 +29,9 @@ projects[ctools][version] = "1.7"
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.6"
 
+projects[features][subdir] = "contrib"
+projects[features][version] = "1.0"
+
 projects[feeds][subdir] = "contrib"
 projects[feeds][version] = "1.0-beta6"
 
@@ -40,6 +43,21 @@ projects[imageapi][version] = "1.8"
 
 projects[lang_dropdown][subdir] = "contrib"
 projects[lang_dropdown][version] = "1.2"
+
+projects[logintoboggan][subdir] = "contrib"
+projects[logintoboggan][version] = "1.7"
+
+projects[panels][subdir] = "contrib"
+projects[panels][version] = "3.7"
+
+projects[smtp][subdir] = "contrib"
+projects[smtp][version] = "1.0-beta5"
+
+projects[strongarm][subdir] = "contrib"
+projects[strongarm][version] = "2.0"
+
+projects[views][subdir] = "contrib"
+projects[views][version] = "2.11"
 
 ; Contrib modules and themes for mobile
 
