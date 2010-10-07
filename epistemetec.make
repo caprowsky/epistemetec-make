@@ -6,5 +6,4 @@ projects[epistemetec][type] = "profile"
 projects[epistemetec][download][type] = "git"
 projects[epistemetec][download][url] = "git@github.com:caprowsky/epistemetec_profiles.git"
 projects[epistemetec][download][module] = "contributions/profiles/epistemetec"
-projects[epistemetec][download][revision] = DRUPAL-6--1
 
