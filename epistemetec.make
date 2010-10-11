@@ -6,6 +6,5 @@ projects[drupal][version] = 6.19
 
 projects[epistemetec][type] = "profile"
 projects[epistemetec][download][type] = "git"
-projects[epistemetec][download][url] = "git://github.com/caprowsky/epistemetec_profiles.git"
-projects[epistemetec][download][module] = "contributions/profiles/epistemetec"
+projects[epistemetec][download][url] = "http://github.com/caprowsky/epistemetec_profiles.git"
 
